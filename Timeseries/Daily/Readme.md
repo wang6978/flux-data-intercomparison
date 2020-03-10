@@ -1,4 +1,3 @@
-
 # Daily Timeseries Intercomparison plot 
 
 Author: Carlos Wang <br/>
