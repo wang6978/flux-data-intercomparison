@@ -6,4 +6,5 @@ Contact: cawang@csumb.edu
 
 ## Overview
 
-This code uses [Plotly](https://plot.ly/python/) to plot inrercomparison between different models and flux data.
+This code uses [Plotly](https://plot.ly/python/) to graph inrercomparison between different models and flux data. <br/>
+The Jupyter [Notebook](https://github.com/wang6978/flux-data-intercomparison/blob/master/Timeseries/Daily/Daily_Intercomparison.ipynb) provides execution of the code. 
