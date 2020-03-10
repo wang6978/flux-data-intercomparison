@@ -11,7 +11,7 @@ The [Jupyter Notebook](https://github.com/wang6978/flux-data-intercomparison/blo
 The output plot is an interactive plot with: 1) zoom with cursor scroll; 2) zoom with rangslider; 3) hover information; 4) dropdown menu of each individual model. For specific multi-model intercomparison, simply click the icon to turn off any models.
 
 ## Methodology
-<b> For Micrometeorological Measurements <b> </br>
+### For Micrometeorological Measurements 
 The data were processed using the [flux-data-qaqc](https://flux-data-qaqc.readthedocs.io/en/latest/)
   
-<b> For Remote Sensing Model Data <b>
+### For Remote Sensing Model Data 
